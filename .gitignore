@@ -1,2 +1,6 @@
 
 .DS_Store
+01_Flink/mnt/opt/flink/bin/bash-java-utils.jar
+01_Flink/mnt/opt/flink/lib/flink-dist_2.11-1.14.5.jar
+01_Flink/mnt/opt/flink/lib/flink-json-1.14.5.jar
+01_Flink/mnt/opt/flink/lib/flink-csv-1.14.5.jar

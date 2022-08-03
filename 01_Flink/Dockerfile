@@ -1,4 +1,4 @@
-FROM flink:1.14-scala_2.11
+FROM apache/flink:1.14-scala_2.11
 ARG FLINK_VERSION=1.14.5
 
 RUN apt-get update -y && \
